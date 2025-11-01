@@ -1,0 +1,7 @@
+
+mysql-data/
+
+../.env
+
+.DS_Store
+Thumbs.db
